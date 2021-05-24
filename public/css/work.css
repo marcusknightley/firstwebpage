@@ -1,0 +1,10 @@
+#top { background-color:lightskyblue;margin:10px 10px 0 0;border:solid;height:100px;width:100%;text-align:center;line-height:100px;}
+ul{ list-style-type: none;margin:5px;padding: 5px;overflow: hidden;}
+
+li {float: left;}
+
+.list { display:block;padding:20px;background-color:darkblue;color:white;}
+
+p {font-size: large}
+
+#body{margin: 10px 20px 10px 20px;}
